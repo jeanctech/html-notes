@@ -1,8 +1,57 @@
 <!--Attributes-->
 
-    <!--Structure-->
-    <tag attribute="value">Text<tag />
+     <!--Structure-->
+     <tag attribute="value">Text<tag />
 
-    <!--Html Attributes-->
-    <img src="media/image-0.png" alt="Image-0" width="10px" height="30px" />
-    <video src="movies/video-0.png" autoplay width="30px" height="30px"></video>
+        <!--Global Attributes-->
+
+        <p id="p-text">Hello World</p> <!--Defines a unique identifier for an element.-->
+
+        <p class="text-p">world</p> <!--Defines a class for an element.-->
+
+        <!--Defines inline CSS styles for an element.-->
+        <style>
+            #p-text{
+                margin: 0rem;
+                padding: 0rem;
+            }
+        </style>
+
+        <!--Link Attributes-->
+
+        <a href="www.page.com" class="link">Learn more</a> <!--Specifies the destination URL of a link.-->
+
+        <!--Target-->
+        <a href="www.page.com" class="link" target="_blank">Learn more</a> <!--Defines how the link will be opened-->
+        <a href="www.page.com" class="link" target="_self">Learn more</a> <!--Defines how the link will be opened-->
+        <a href="www.page.com" class="link" target="_parent">Learn more</a> <!--Defines how the link will be opened-->
+        <a href="www.page.com" class="link" target="_top">Learn more</a> <!--Defines how the link will be opened-->
+
+        <!--Download-->
+        <a href="www.page.com" class="link" download="files-page.pdf">Learn more</a> <!--Indicates that the link is to download a file.-->
+
+        <!--Image attributes-->
+
+        <img src="image.png" alt="image-1" class="image"> <!--Specifies the image path.-->
+        <img src="image.png" alt="image-1" class="image"> <!--Provides alternative text for the image.-->
+        <img src="image.png" alt="image-1" class="image" width="50%" height="50%"> <!--Defines the width and height of the image.-->
+
+        <!--Form attributes-->
+
+        <form action="www.database.com"> <!--Specifies the destination URL for submitting form data.-->
+            <label for="">
+                <input type="button" value="button">
+            </label>
+        </form>
+
+        <form action="www.database.com" method="get"> <!--Defines the form's submission method (`Get` or `Post`).-->
+            <label for="">
+                <input type="button" value="button">
+            </label>
+        </form>
+
+        <form action="www.database.com" method="get" name="database"> <!--Defines the name of the form control.-->
+            <label for="">
+                <input type="button" value="button">
+            </label>
+        </form>
