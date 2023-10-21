@@ -1,0 +1,47 @@
+<!-- Multimedia Tags in Html -->
+
+<!-- Html provides several tags to embed multimedia content, such as images, audio, and
+video, on your web pages. Here are some of the most common tags for multimedia content. -->
+
+     <!-- 1. **Image (`<img>`)**: The `<img>` tag is used to display images on a web page.
+     You must provide the image source using the `src` attribute. -->
+
+     <img src="image.jpg" alt="Alternative text">
+
+     - `src`: Specifies the URL of the image.
+     - `alt`: Provides alternative text for the image, useful for accessibility and in case the image does not load.
+
+      <!-- 2. **Audio (`<audio>`)**: The `<audio>` tag is used to insert audio content into
+      a Web page. You can provide multiple formats for greater cross-browser compatibility. -->
+
+     <audio controls>
+         <source src="my-audio.mp3" type="audio/mpeg">
+         <source src="my-audio.ogg" type="audio/ogg">
+         Your browser does not support audio playback.
+     </audio>
+
+     - `controls`: Adds playback controls (play, pause, etc.) to the audio player.
+     - `<source>`: Allows you to specify different audio sources in formats supported by different browsers.
+
+      <!-- 3. **Video (`<video>`)**: The `<video>` tag is used to embed video content in
+      a Web page. As with audio, various video formats can be provided. -->
+
+     <video controls width="320" height="240">
+         <source src="my-video.mp4" type="video/mp4">
+         <source src="my-video.webm" type="video/webm">
+         Your browser does not support video playback.
+     </video>
+
+     - `controls`: Add playback controls to the video player.
+     - `width` and `height`: Set the dimensions of the video player in pixels.
+
+      <!-- 4. **Canvas (`<canvas>`)**: The `<canvas>` tag is used to draw graphics, animations
+      and visual elements using JavaScript. -->
+
+     <canvas id="my-canvas" width="400" height="200"></canvas>
+
+     You can use JavaScript to manipulate and draw on the canvas.
+
+<!-- These are some of the most used media tags in Html. Can
+customize and style these elements and combine them with CSS and JavaScript to create experiences
+interactive multimedia on your web pages. -->

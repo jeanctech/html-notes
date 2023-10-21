@@ -1,0 +1,54 @@
+<!-- Forms in Html -->
+
+<!-- Html forms are a fundamental way to interact with users and collect data.
+You can create forms to receive information, comments, registrations and more. Then you
+I show how to create a basic Html form. -->
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Html Form</title>
+</head>
+<body>
+     <h1>Contact form</h1>
+     <form action="process.php" method="POST">
+         <label for="name">Name:</label>
+         <input type="text" id="name" name="name" required>
+
+         <label for="email">Email:</label>
+         <input type="email" id="email" name="email" required>
+
+         <label for="message">Message:</label>
+         <textarea id="message" name="message" rows="4" required></textarea>
+
+         <input type="submit" value="Submit">
+     </form>
+</body>
+</html>
+
+<!-- In this example, a simple contact form has been created with the following elements. -->
+
+     <!-- 1. `<form>`: Defines the form. The `action` attribute specifies the URL to which they will be sent
+     the data when the user submits the form, and the `method` attribute specifies whether to use
+     the Post or Get method to send the data. Usually, sensitive data, such as passwords,
+     They are sent with the Post method. -->
+
+     <!-- 2. `<label>`: Labels that describe the form fields. The tag is associated with the
+     field using the `for` attribute. -->
+
+     <!-- 3. `<input>`: Input elements, in this case, text fields for name and email
+     electronic. The `type` attribute defines the type of the input field (in this case, "text" and "email").
+     The `id` attribute is used to associate the label with the field, and the `name` attribute is used to
+     identify the field when the form is submitted. -->
+
+     <!-- 4. `<textarea>`: Used to create a larger text field, in this case, for the
+     message. The `rows` attribute specifies the number of rows in the field. -->
+
+     <!-- 5. `<input type="submit">`: This is a submit button that allows the user to submit the
+     form. The `type` attribute is set to "submit" to indicate that it is a submit button. -->
+
+     <!-- 6. The `required` attribute on the input fields and the text field makes these fields
+     are mandatory and cannot be sent empty. -->
+
+<!-- When the user completes the form and clicks the submit button, the data is sent to the
+server specified in the form's `action` attribute for processing. -->
