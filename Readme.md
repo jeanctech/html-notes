@@ -55,21 +55,21 @@ Thank you very much for all the support shown!
 
 ## Links of Interest
 
-* [Html official website](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Html Official Website](https://developer.mozilla.org/en-US/docs/Web/Html)
 
-* [Official Html tutorial in Spanish](https://developer.mozilla.org/es/docs/Web/HTML)
+* [Official Html in Spanish](https://developer.mozilla.org/es/docs/Web/Html)
 
-* [30 Days of Html Repo](https://github.com/Asabeneh/30-Days-Of-Html)
+* [30 Days of Html Repository](https://github.com/Asabeneh/30-Days-Of-Html)
 
-* [Flukeout game to learn Html](https://flukeout.github.io/)
+* [Game to learn Html](https://flukeout.github.io/)
 
 * [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
 
 * [Pug](https://pugjs.org/api/getting-started.html) - The framework to create our Frontend
 
-* [Xml](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction) - Xml
+* [Xml](https://developer.mozilla.org/en-US/docs/Web/Xml/Xml_Introduction) - Xml
 
-* [Xhtml](https://developer.mozilla.org/es/docs/Glossary/XHTML) - Xhtml
+* [Xhtml](https://developer.mozilla.org/es/docs/Glossary/Xhtml) - Xhtml
 
 ##
 
