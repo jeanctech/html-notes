@@ -1,7 +1,7 @@
 # Html - Documentation
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
+![Html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+[![ChatGpt](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
 ## What is Html?
 
@@ -48,9 +48,9 @@ for the definition of content of a web page, such as text, images, videos, games
 
 ## Important information and frequently asked questions
 
-Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial objective of the project. And after that I don't rule out adding new lessons in the future, but I think that for the moment it can serve as a basis for anyone who wants to start learning this language.
+Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial goal of the project. And then I don't rule out adding new lessons in the future, but I think that for now it can serve as a basis for anyone who wants to start learning this language.
 
-* As soon as the course continues, I will update the repository and notify the networks.
+* As soon as the course continues I will update the repository and notify the networks.
 Thank you very much for all the support shown!
 
 ## Links of Interest
