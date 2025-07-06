@@ -1,78 +1,68 @@
-# Html - Documentation
+# > HTML-notes.sh 🚀
 
-![Html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-[![ChatGpt](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
+> Learn HTML as if you were in the terminal.
+> No frameworks, no black magic — just pure code.
+> `echo "Let's go nerd mode 🧠"`
 
-## What is Html?
+## 📁 ./content
 
-Html, acronym in English for HyperText Markup Language, refers to the markup language for creating web pages. It is a standard that serves as a reference for the software that connects with the creation of web pages in its different versions, defines a basic structure and a code.
+- [Introduction](./notes/introduction.html)
+- [Day 01 - Html Format](./notes/html-format.html)
+- [Day 02 - Index](./notes/index.html)
+- [Day 03 - Tags](./notes/tags.html)
+- [Day 04 - Types of Tags](./notes/types-of-tags.html)
+- [Day 05 - Basic Structure](./notes/basic-structure.html)
+- [Day 06 - Semantic Html](./notes/semantic.html)
+- [Day 07 - Attributes](./notes/attributes.html)
+- [Day 08 - Titles](./notes/titles.html)
+- [Day 09 - Paragraph](./notes/paragraphs.html)
+- [Day 10 - Text Tags](./notes/text-tags.html)
+- [Day 11 - Links](./notes/links.html)
+- [Day 12 - Line Break](./notes/line-break.html)
+- [Day 13 - Lists](./notes/lists.html)
+- [Day 14 - Multimedia Tags](./multimedia-tags.html)
+- [Day 15 - Divs](./notes/divs.html)
+- [Day 16 - Forms](./notes/forms.html)
+- [Day 17 - Metadata Tags](./notes/metadata-tags.html)
+- [Day 18 - Navs](./notes/navs.html)
+- [Day 19 - Section](./notes/section.html)
+- [Day 20 - Article](./notes/article.html)
+- [Day 21 - Aside](./notes/aside.html)
+- [Day 22 - Footer](./notes/footer.html)
+- [Day 23 - Tables](./notes/tables.html)
+- [Day 24 - Alt](./notes/alt.html)
+- [Day 25 - Ids](/notes/ids.html)
+- [Day 26 - Classes](./notes/classes.html)
+- [Day 27 - Icons](./notes/icons.html)
+- [Day 28 - Center](./notes/center.html)
+- [Day 29 - Common Errors](./notes/common-errors.html)
+- [Day 30 - Conclusion](./notes/conclusion.html)
 
-## Index
+## 🔗 ./resources
 
-* [Introduction](Introduction.html)
-* [Lesson 1 - Html Format](Html-Format.html)
-* [Lesson 2 - Index](Index.html)
-* [Lesson 3 - Tags](Tags.html)
-* [Lesson 4 - Types of Tags](Types-of-Tags.html)
-* [Lesson 5 - Basic Structure](Basic-Structure.html)
-* [Lesson 6 - Semantic Html](Semantic-Html.html)
-* [Lesson 7 - Attributes](Attributes.html)
-* [Lesson 8 - Titles](Titles.html)
-* [Lesson 9 - Paragraph](Paragraphs.html)
-* [Lesson 10 - Text Tags](Text-Tags.html)
-* [Lesson 11 - Links](Links.html)
-* [Lesson 12 - Line Break](Line-Break.html)
-* [Lesson 13 - Lists](Lists.html)
-* [Lesson 14 - Multimedia Tags](Multimedia-Tags.html)
-* [Lesson 15 - Divs](Divs.html)
-* [Lesson 16 - Forms](Forms.html)
-* [Lesson 17 - Metadata Tags](Metadata-Tags.html)
-* [Lesson 18 - Navs](Navs.html)
-* [Lesson 19 - Section](Section.html)
-* [Lesson 20 - Article](Article.html)
-* [Lesson 21 - Aside](Aside.html)
-* [Lesson 22 - Footer](Footer.html)
-* [Lesson 23 - Tables](Tables.html)
-* [Lesson 24 - Alt](Alt.html)
-* [Lesson 25 - Ids](Ids.html)
-* [Lesson 26 - Classes](Classes.html)
-* [Lesson 27 - Icons](Icons.html)
-* [Lesson 28 - Center](Center.html)
-* [Lesson 29 - Common Errors](Common-Errors.html)
-* [Lesson 30 - Conclusion](Conclusion.html)
-* [Next Steps](Next-Steps.html)
+- [Mdn HTML-Us](https://developer.mozilla.org/en-US/docs/Web/Html)
+- [Mdn HTML-Es](https://developer.mozilla.org/es/docs/Web/Html)
+- [30 days of HTML](https://github.com/Asabeneh/30-Days-Of-Html)
+- [Game to learn HTML](https://flukeout.github.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Pug](https://pugjs.org/api/getting-started.html)
+- [XML](https://developer.mozilla.org/en-US/docs/Web/Xml/Xml_Introduction)
+- [XHTML](https://developer.mozilla.org/es/docs/Glossary/Xhtml)
 
-## Introduction
+## 🧠 ./notes
 
-for the definition of content of a web page, such as text, images, videos, games, among others. It is a standard in charge of the World Wide Web Consortium (W3c) or Www Consortium, an organization dedicated to the standardization of almost all technologies linked to the web, especially with regard to their writing and interpretation. Html is considered the most important web language, its invention being crucial in the emergence, development and expansion of the World Wide Web (Www). It is the standard that has been imposed in the visualization of web pages and it is the one that all current browsers have adopted
+This repository is like my learning journal.
 
-## Important information and frequently asked questions
+I'm not an expert. It's not an official course. I just documented what I learned.
 
-Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial goal of the project. And then I don't rule out adding new lessons in the future, but I think that for now it can serve as a basis for anyone who wants to start learning this language.
+I might add more in the future if I get even more advanced with HTML.
 
-* As soon as the course continues I will update the repository and notify the networks.
-Thank you very much for all the support shown!
+## 🌟 ./support
 
-## Links of Interest
+If it was helpful or you liked it, please leave a star.
+That motivates me more than a cup of coffee ☕✨
 
-* [Html Official Website](https://developer.mozilla.org/en-US/docs/Web/Html)
+## 🛸 ./author
 
-* [Official Html in Spanish](https://developer.mozilla.org/es/docs/Web/Html)
-
-* [30 Days of Html Repository](https://github.com/Asabeneh/30-Days-Of-Html)
-
-* [Game to learn Html](https://flukeout.github.io/)
-
-* [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
-
-* [Pug](https://pugjs.org/api/getting-started.html) - The framework to create our Frontend
-
-* [Xml](https://developer.mozilla.org/en-US/docs/Web/Xml/Xml_Introduction) - Xml
-
-* [Xhtml](https://developer.mozilla.org/es/docs/Glossary/Xhtml) - Xhtml
-
-##
-
-#### You can support my work by "☆Star" the repo or nominate me for a "GitHub Star". Thank you!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+**Author:** `jeanctech`,
+**Style:** `terminal vibes`, functional documentation, no fear of code.

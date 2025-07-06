@@ -1,0 +1,55 @@
+<!-- Icons in HTML -->
+
+<!-- To include icons in HTML, you can use icon fonts, images or even vector icons. TO
+Next, I show you some of the most common ways to incorporate icons into your web pages. -->
+
+<!-- 1. **Icon fonts** -->
+
+<!-- **Font Awesome**: Font Awesome is one of the most popular icon fonts. You can add your
+     icons on your website by linking to their source or using their icon kit.
+
+      To link Font Awesome in your HTML, you must add the following code in the `<head>` section of your
+     document -->
+
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/CSS/all.min.css"
+/>
+
+Then, you can use the icons in your content like this:
+
+<i class="fas fa-home"></i>
+
+<!-- **Material Icons**: Google Material Icons is another widely used icon source. Can
+     link it as follows. -->
+
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+/>
+
+Then, you can use the Material Icons icons in your HTML:
+
+<i class="material-icons">home</i>
+
+<!-- 2. **Icon images**:
+
+    You can use icon images (for example, Png or Svg files) and add them to your web page using
+    the `<img>` tag. Make sure the images are in the correct location on your server and
+    Let the `src` attribute of the `<img>` tag point to the image Url. -->
+
+<img src="icon.png" alt="House icon" />
+
+<!-- 3. **Vector icons**:
+
+    Vector icons, such as those created with Svg (Scalable Vector Graphics), are scalable and can be
+    can be incorporated directly into the HTML code. Here is an example of how to insert an Svg icon
+    on your page.
+
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+       <path d="M12 2c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10zm0 18c-4.418 0-8-3.582-8-8s3.582- 8 8-8 8 3,582 8 8-3,582 8-8 8zm-2-14v10l9-5z"/>
+    </svg> -->
+
+<!-- You can customize the size and color of the icons according to your needs, and it is often used
+CSS to style them. The choice of icon technique will depend on your preferences and requirements
+of design. -->
